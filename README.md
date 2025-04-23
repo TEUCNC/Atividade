@@ -1,4 +1,4 @@
-# Refatoracao do Sistema de Gerenciamento de Biblioteca
+# Refatoração do Sistema de Gerenciamento de Biblioteca
 
 ## Parte 1: Problemas Identificados (Violações de SOLID e Clean Code)
 
